@@ -2,7 +2,7 @@
 
 local function run(msg,macthes) 
 local reply_id = msg ['id'] 
-if is_sudo(msg) and macthes[1] == 'برو2' then 
+if is_sudo(msg) and macthes[1] == 'برو3' then 
 local text = [[ 
 🌹 اهَــْـِْـْْـِلاّ و ســهلا في احدا قوائم الاوامر 🌹 
 ♦🔹♦🔸♦🔹♦🔸♦🔹♦ 
@@ -58,7 +58,7 @@ end
 end 
 return { 
 patterns ={ 
-  "^(برو2)$", 
+  "^(برو3)$", 
 }, 
 run = run 
 } 
