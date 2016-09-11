@@ -1,4 +1,4 @@
-#TEAM PRO 
+#DEV2PRO 
 
 طريقه تنصيب البوت
 
@@ -18,11 +18,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 وراها حط
 **************
-git clone https://github.com/devlua/TEAM_PRO.get.git
+git clone https://github.com/devlua/DEV2PRO.git
 *****************************************************
 وراها حط
 **************************
-cd TEAM_PRO.get
+cd DEV2PRO
 **************************
 وراها خلي
 **************************
